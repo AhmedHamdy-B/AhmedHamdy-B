@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nodejs, Express**
 
-- 💬 Ask me about **Vuejs, JavaScript, HTML, CSS**
+- 💬 Ask me about **Vuejs, Nuxtjs, Quasar, Vuetify, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **ahmedhamdyboraey@gmail.com**
 
