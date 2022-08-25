@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamdy</h1>
-<h3 align="center">A passionate Frontend Senior Developer from Egypt</h3>
+<h3 align="center">A Passionate Frontend Senior Developer from Egypt</h3>
 
 - 🌱 I’m currently learning **Nodejs, Express**
 
