@@ -22,10 +22,10 @@
 
 <h3 align="left">AI-Driven Development:</h3>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/cursorai/cursorai-icon.svg" alt="cursor" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="chatgpt" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="claude" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" alt="gemini" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=DiGZkjCzyZXn&format=png&color=000000" alt="cursor" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=TUk7vxvtu6hX&format=png&color=000000" alt="chatgpt" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=7OMdCpw0sxP6&format=png&color=000000" alt="claude" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=KKGSMFdCbd1Z&format=png&color=000000" alt="gemini" width="40" height="40"/>
 </p>
 
 <h3 align="left">Vue.js Ecosystem:</h3>
@@ -50,8 +50,8 @@
 <h3 align="left">Design, Testing & Quality:</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" alt="xd" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/zeplin/zeplin-icon.svg" alt="zeplin" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=4VVL78edhbW9&format=png&color=000000" alt="xd" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/6152453?s=200&v=4" alt="zeplin" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="vitest" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/>
