@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamdy</h1>
 <h3 align="center">Senior Software Engineer & Frontend Team Lead from Egypt</h3>
 
-- 🚀 Senior Developer specializing in building scalable web architectures with **Vue** and **React**.
+- 🚀 Senior Developer specializing in building scalable web architectures with **React** and **Vue**.
 - 🛠️ Solid experience in **Fullstack Development** using Node.js and Express to build robust APIs.
 - 🤖 Expert in optimizing development workflows using **AI-driven tools (Cursor/LLMs)**.
 - 📫 Reach me at: **ahmedhamdyboraey@gmail.com**
