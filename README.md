@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamdy</h1>
 <h3 align="center">Senior Software Engineer & Frontend Team Lead from Egypt</h3>
-
+<p align="center">
+  <a href="https://sprightly-pegasus-4f5abd.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 - 🚀 Senior Developer specializing in building scalable web architectures with **React** and **Vue**.
 - 🛠️ Solid experience in **Fullstack Development** using Node.js and Express to build robust APIs.
 - 🤖 Expert in optimizing development workflows using **AI-driven tools (Cursor/LLMs)**.
